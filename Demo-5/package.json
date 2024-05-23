@@ -1,0 +1,25 @@
+{
+  "name": "demo-5",
+  "version": "1.0.0",
+  "description": "HTTP Server using nodejs",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "http",
+    "http",
+    "server",
+    "nodejs",
+    "server",
+    "nodejs",
+    "http",
+    "server"
+  ],
+  "author": "Vishal Padhariya",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
